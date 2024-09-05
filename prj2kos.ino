@@ -1,5 +1,5 @@
-#include <SPI.h> // Include the standard SPI library for nRF24L01 communication
-#include "RF24.h" // Include the main nRF24L01 library
+#include <SPI.h> 
+#include "RF24.h" 
 #include "nRF24L01.h"
 
 // Define pin numbers
