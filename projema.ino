@@ -151,12 +151,12 @@ void loop(){
     delay(100);
    }    
           
-//   if(nabiz < 130 ){
-//    digitalWrite(buzzerPin,LOW);
-//    delay(100);
-//    digitalWrite(buzzerPin,HIGH);
-//    delay(100);
-//    }            
+   if(nabiz < 130 ){
+    digitalWrite(buzzerPin,LOW);
+    delay(100);
+    digitalWrite(buzzerPin,HIGH);
+    delay(100);
+   }            
  
   
 }
